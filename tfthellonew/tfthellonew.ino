@@ -9,6 +9,9 @@
 #include <SPI.h>
 #include <MultiLCD.h>
 
+
+
+added line 
 //LCD_ILI9341 lcd; /* for 2.2" SPI LCD */
 //LCD_ILI9325D lcd; /* for 2.8" LCD */
 //LCD_SSD1289 lcd; /* for 3.2" LCD */
